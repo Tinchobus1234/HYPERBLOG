@@ -13,5 +13,10 @@ zZ
 
 MASTER 2223
 
+<<<<<<< HEAD
 Master 11
+=======
+Experimento 2
+
+>>>>>>> 4200252... Experimento 2
 zZZZZY yoZz soy vane, vivan las vegas y soy una genia
