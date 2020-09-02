@@ -18,5 +18,10 @@ Master 11
 =======
 Experimento 2
 
+<<<<<<< HEAD
 >>>>>>> 4200252... Experimento 2
+=======
+Experimento 1
+
+>>>>>>> e031f5f... Experimento1123
 zZZZZY yoZz soy vane, vivan las vegas y soy una genia
